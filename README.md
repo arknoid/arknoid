@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arknoid
 - 👀 I’m interested in graphics, and solving tricky problems.
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning data structures.
 - 📫 You may reach me on arkayswami2003@gmail.com
 
 <!---
